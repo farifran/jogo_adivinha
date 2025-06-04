@@ -17,4 +17,4 @@ This is a simple number guessing game where the user tries to guess a secret num
 
 ## How to Run
 
-Open the `index.html` file in your web browser.
+Open the link: https://jogo-adivina.vercel.app
